@@ -1,2 +1,2 @@
 # pymol-examples
-Simple PyMol scripting examples and tutorials.
+Simple PyMOL scripting examples and tutorials.
