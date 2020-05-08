@@ -5,6 +5,8 @@ This short example shows how to:
 - get the protein's sequence
 - iterate over the atoms using separate namespaces
 - write molecules to file
-- drawing a figure with different representations for protein, ligands and water.
+- draw a figure with different representations for protein, ligands and water.
+
+Run it with pymol -c example.py or pymol example.py
 
 For details and further information see https://pymolwiki.org/index.php/Main_Page
